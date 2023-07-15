@@ -1,7 +1,0 @@
-
-Command 'nohub' not found, did you mean:
-
-  command 'nohup' from deb coreutils
-
-Try: apt install <deb name>
-
